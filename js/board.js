@@ -15,12 +15,59 @@ var activeBuffers = [];
 
 
 // mp3 files and sources
-var soundfiles = ["noice.mp3"
-                           ];
+var soundfiles = ["2SAD4ME.mp3",
+                           "AIRHORN.mp3",
+                           "Darude - Dankstorm.mp3",
+                           "HITMARKER.mp3",
+                           "MOM GET THE CAMERA.mp3",
+                           "Oh Baby A Triple.mp3",
+                           "OMG TRICKSHOT CHILD.mp3",
+                           "OOOOOOOOHMYGOOOOD.mp3",
+                           "SANIC.mp3",
+                           "SKRILLEX Scary.mp3",
+                           "SMOKE WEEK EVERYDAY.mp3",
+                           "WOMBO COMBO.mp3",
+                           "DAMN SON WHERED YOU FIND THIS.mp3",
+                           "Whatcha Say.mp3",
+                           "2SED4AIRHORN.mp3",
+                           "tactical nuke.mp3",
+                           "intervention 420.mp3",
+                           "AIRPORN.mp3",
+                           "DEDOTADED WAM.mp3",
+                           "DAMN SON WOW.mp3",
+                           "GET NOSCOPED.mp3",
+                           "AIRHORN SONATA.mp3",
+                           "wow ;).mp3",
+                           "SHOTS FIRED.mp3",
+                           "NEVER DONE THAT.mp3",
+                           "SPOOKY.mp3"];
 
-var sourcefiles = ["https://www.youtube.com/watch?v=a8c5wmeOL9o"
-                       ];
-
+var sourcefiles = ["https://www.youtube.com/watch?v=JSnR80kY0m0",
+                            "https://www.youtube.com/watch?v=IpyingiCwV8",
+                            "https://www.youtube.com/watch?v=u9ymUX1fJLw",
+                            "https://www.dropbox.com/s/3nh8u7nrql96k48/HITMARKER.wav",
+                            "https://www.youtube.com/watch?v=gl33V3fh7k0",
+                            "https://www.youtube.com/watch?v=M6PbdJiAK84",
+                            "https://www.youtube.com/watch?v=auAvDJlMOQ8",
+                            "https://www.youtube.com/watch?v=b_yMiLwxae0",
+                            "https://www.youtube.com/watch?v=hU7EHKFNMQg",
+                            "https://www.youtube.com/watch?v=WSeNSzJ2-Jw",
+                            "https://www.youtube.com/watch?v=KlujizeNNQM",
+                            "https://www.youtube.com/watch?v=pD_imYhNoQ4",
+                            "https://www.youtube.com/watch?v=s_x_4UElTDI",
+                            "https://www.youtube.com/watch?v=thhaf-bKWyg",
+                            "https://soundcloud.com/gay-bagel/sad-airhorn",
+                            "https://www.youtube.com/watch?v=cLI8wtbCIkM",
+                            "https://www.youtube.com/watch?v=9aGGIwOXze4",
+                            "https://www.youtube.com/watch?v=Ks5bzvT-D6I",
+                            "https://www.youtube.com/watch?v=wsO-Td0hqXo",
+                            "https://www.youtube.com/watch?v=Se8Yq56tSLc",
+                            "https://www.youtube.com/watch?v=1mz6y526yCk",
+                            "https://www.youtube.com/watch?v=8YHqals6TBQ&t=64",
+                            "https://www.youtube.com/watch?v=FzjtPtOH-Hg",
+                            "https://www.youtube.com/watch?v=Y8bGl331RsQ",
+                            "https://www.youtube.com/watch?v=bKmBEdY35mA",
+                            "https://www.youtube.com/watch?v=rbBX6aEzEz8"];
 
 
 
