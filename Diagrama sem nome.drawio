@@ -1,44 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T15:44:32.224Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/114.0" etag="KT9q7nqU5-uJbdl_xFlL" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T16:23:28.063Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/113.0" etag="XwR-QawAU0tJpIZ7abYX" version="21.5.0" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="2074" dy="1073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1026" dy="599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="AQUPgr8N2NR4SQHCCyvK-0" value="Discord" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="755" width="120" height="40" as="geometry" />
+        <mxCell id="Hh0RhHgCAKNqfX66DLEF-5" value="&lt;div&gt;Triggers &lt;br&gt;&lt;/div&gt;&lt;div&gt;Action&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AQUPgr8N2NR4SQHCCyvK-0" target="AQUPgr8N2NR4SQHCCyvK-7">
+          <mxGeometry x="-0.4328" y="-10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="AQUPgr8N2NR4SQHCCyvK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AQUPgr8N2NR4SQHCCyvK-1" target="AQUPgr8N2NR4SQHCCyvK-7">
+        <mxCell id="AQUPgr8N2NR4SQHCCyvK-0" value="Discord" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=2;shadow=0;labelPosition=center;verticalLabelPosition=middle;align=center;verticalAlign=middle;spacingLeft=20;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="755" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AQUPgr8N2NR4SQHCCyvK-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;startArrow=classic;startFill=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AQUPgr8N2NR4SQHCCyvK-1" target="AQUPgr8N2NR4SQHCCyvK-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AQUPgr8N2NR4SQHCCyvK-1" value="Mobile App" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="330" y="890" width="120" height="40" as="geometry" />
+        <mxCell id="AQUPgr8N2NR4SQHCCyvK-1" value="iOS App" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=2;shadow=0;spacingLeft=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="350" y="890" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="AQUPgr8N2NR4SQHCCyvK-2" value="Discord Server&lt;br&gt;SdR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="100" y="740" width="120" height="40" as="geometry" />
+        <mxCell id="Hh0RhHgCAKNqfX66DLEF-4" value="&lt;div&gt;User&lt;/div&gt;&lt;div&gt;Interaction&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AQUPgr8N2NR4SQHCCyvK-2" target="AQUPgr8N2NR4SQHCCyvK-0">
+          <mxGeometry y="15" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="AQUPgr8N2NR4SQHCCyvK-3" value="Web Browser" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="90" y="510" width="120" height="40" as="geometry" />
+        <mxCell id="AQUPgr8N2NR4SQHCCyvK-2" value="Discord Server&lt;br&gt;SdR" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=2;shadow=0;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="120" y="747.5" width="100" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="AQUPgr8N2NR4SQHCCyvK-4" value="Cloudflare Storage" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="530" y="500" width="120" height="40" as="geometry" />
+        <mxCell id="Hh0RhHgCAKNqfX66DLEF-0" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AQUPgr8N2NR4SQHCCyvK-3" target="AQUPgr8N2NR4SQHCCyvK-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AQUPgr8N2NR4SQHCCyvK-5" value="&lt;div&gt;Serverless &lt;br&gt;&lt;/div&gt;&lt;div&gt;Functions&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="320" y="500" width="120" height="40" as="geometry" />
+        <mxCell id="AQUPgr8N2NR4SQHCCyvK-3" value="Web Browser" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=2;shadow=0;spacingRight=0;spacingLeft=30;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="130" y="605" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AQUPgr8N2NR4SQHCCyvK-7" value="Vassalo Bot" style="swimlane;whiteSpace=wrap;html=1;startSize=60;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="520" y="710" width="200" height="130" as="geometry" />
+        <mxCell id="AQUPgr8N2NR4SQHCCyvK-4" value="&lt;div&gt;Cloudflare &lt;br&gt;&lt;/div&gt;&lt;div&gt;Storage&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=2;shadow=0;verticalAlign=middle;spacingLeft=20;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="530" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AQUPgr8N2NR4SQHCCyvK-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AQUPgr8N2NR4SQHCCyvK-7">
+        <mxCell id="Hh0RhHgCAKNqfX66DLEF-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeWidth=2;startArrow=classic;startFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AQUPgr8N2NR4SQHCCyvK-5" target="AQUPgr8N2NR4SQHCCyvK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Hh0RhHgCAKNqfX66DLEF-3" value="&lt;div&gt;OAuth2&lt;/div&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;startArrow=classic;startFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AQUPgr8N2NR4SQHCCyvK-5" target="AQUPgr8N2NR4SQHCCyvK-0">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AQUPgr8N2NR4SQHCCyvK-5" value="&lt;div&gt;Serverless &lt;br&gt;&lt;/div&gt;&lt;div&gt;Functions&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=2;shadow=0;spacingLeft=28;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="320" y="600" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Hh0RhHgCAKNqfX66DLEF-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=1;strokeWidth=2;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AQUPgr8N2NR4SQHCCyvK-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="650" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="620" y="680" />
+              <mxPoint x="400" y="680" />
+              <mxPoint x="400" y="650" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQUPgr8N2NR4SQHCCyvK-7" value="Vassalo Bot" style="swimlane;whiteSpace=wrap;html=1;startSize=60;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="520" y="710" width="200" height="130" as="geometry">
+            <mxRectangle x="520" y="710" width="110" height="60" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="AQUPgr8N2NR4SQHCCyvK-9" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="AQUPgr8N2NR4SQHCCyvK-7" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="600" y="830" as="sourcePoint" />
             <mxPoint x="620" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AQUPgr8N2NR4SQHCCyvK-10" value="REST API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AQUPgr8N2NR4SQHCCyvK-10" value="REST API" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="530" y="788" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AQUPgr8N2NR4SQHCCyvK-11" value="&lt;div&gt;Events&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="AQUPgr8N2NR4SQHCCyvK-11" value="&lt;div&gt;Events&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;strokeWidth=2;fontStyle=1" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="640" y="788" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Hh0RhHgCAKNqfX66DLEF-8" value="" style="pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.laptop;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="140" y="620" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Hh0RhHgCAKNqfX66DLEF-9" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/discord-128.png" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="759" width="32" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="Hh0RhHgCAKNqfX66DLEF-11" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn4.iconfinder.com/data/icons/essentials-72/24/050_-_Cloud-128.png" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="536" width="28" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Hh0RhHgCAKNqfX66DLEF-19" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn1.iconfinder.com/data/icons/ionicons-fill-vol-2/512/logo-vercel-128.png;imageBackground=#FFFFFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="330" y="611.5" width="27" height="27" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
